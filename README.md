@@ -1,7 +1,5 @@
 ### Here is what I'm working on!
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on CS50 Harvardx certificate!
 - 🌱 I continue to learn programming (node.js mostly)
 - 👯 I’m looking to collaborate on AI (machine learning, deep learning on node.js)
